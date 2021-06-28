@@ -32,3 +32,6 @@ The project is dividend into three parts;
   1. Data cleaning, manipulation and wrangling using **SQL**
   2. Data visualisation using **Tableau**
   3. Sales Prediction using weather condition variables in **Python**
+
+
+![coffee-shop-customer-is-talking-female-barista_173125-119](https://user-images.githubusercontent.com/83330021/123654825-bb747980-d82e-11eb-8a42-617721f34be8.jpg)
