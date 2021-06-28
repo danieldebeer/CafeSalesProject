@@ -1,4 +1,4 @@
-April 2019 transaction data wrangling and cleaning in SQL
+
 /* NYC Cafe Data cleaning
 
 */
