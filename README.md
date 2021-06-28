@@ -20,6 +20,7 @@ The dataset used is a summary table of daily sales from the IBM coffee shop data
 - [IBM Coffee shop sample data (11.1.3+)](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113)
 - [NASA POWER | Prediction of Worldwide Energy Resources](https://power.larc.nasa.gov)
 
+<br>
 
 ### Project Layout:
 The project is dividend into three parts;
