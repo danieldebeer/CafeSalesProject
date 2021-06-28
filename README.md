@@ -1,6 +1,7 @@
 # Cafe Sales Project
 New York City coffee shop transactional sales data analysis and forecasting.
 
+<br>
 
 ### Business Scenario:
 The owner of a chain of New York City coffee shops would to investigate the influence of weather on sales traffic. The owner would like to create a model that could predict daily sales count (number of sales) based on atmospheric weather conditions in order to forecast future sales patterns. The owner could use this sales forcasting to effectively plan staffing and stock to **maximise the profit margin**.
@@ -20,9 +21,7 @@ The dataset used is a summary table of daily sales from the IBM coffee shop data
 - [NASA POWER | Prediction of Worldwide Energy Resources](https://power.larc.nasa.gov)
 
 
-   ![coffee-shop-customer-is-talking-female-barista_173125-119.jpg](attachment:b00d4c94-d170-4fbd-9fef-c64c49d07e5f.jpg)
-
-
+### Project Layout:
 The project is dividend into three parts;
   1. Data cleaning, manipulation and wrangling using **SQL**
   2. Data visualisation using **Tableau**
