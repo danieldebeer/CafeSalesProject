@@ -1,4 +1,4 @@
-# Cafe Sales Project
+# Cafe Sales Project ☕
 New York City coffee shop transactional sales data analysis and forecasting.
 
 <br>
