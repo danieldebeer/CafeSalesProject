@@ -4,11 +4,16 @@ New York City coffee shop transactional sales data analysis and forecasting.
 <br>
 
 ### Business Scenario:
-The owner of a chain of New York City coffee shops would to investigate the influence of weather on sales traffic. The owner would like to create a model that could predict daily sales count (number of sales) based on atmospheric weather conditions in order to forecast future sales patterns. The owner could use this sales forcasting to effectively plan staffing and stock to **maximise the profit margin**.
+The owner of a chain of New York City coffee shops would to analyse the transactional sales data for the month of April 2019.
 
-A linear regression model was choosen as we are wanting to predict the value of a variable based on the value of another variable.
+Project Outcomes:
+1. The owner wants sales informative insights into product and store performance in order to assess productivity and profitabilty.
+  - Data wrangling and cleaning in SQL
+  - KPI Dashboard in Tableau
 
-In this notebook, we'll build a multiple linear regression model to predict **Daily Sales Count** using appropriate **weather predictor variables**.
+2. Additionally, the owner would then like to investigate the influence of weather on sales traffic by creating a model that could predict daily sales count (number of sales) based on atmospheric weather conditions in order to forecast future sales patterns. The owner wants to use this sales forcasting to effectively plan staffing and stock in order to **maximise the profit margin**.
+  - Sales prediction using multiple linear regression in python
+
 
 <br>
 
